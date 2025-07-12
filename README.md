@@ -3,6 +3,7 @@
 Le restaurant "Ombre d'Afrique" est un établissement familial de 80 places, spécialisé dans la
 cuisine traditionnelle tchadienne et africaine. Il est ouvert 7 jours sur 7, de 11h à 23h, et
 propose trois services : déjeuner, dîner et vente à emporter.
+
 ![ombre](https://github.com/user-attachments/assets/544f850c-7925-4c33-9948-5e73fec131a5)
 # Structure Générale
 La base comprend les tables suivantes :
