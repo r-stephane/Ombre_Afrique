@@ -15,3 +15,4 @@ Facture :Détail des factures : montants HT, TTC, taxes, et mode de paiement
  INGREDIENT : Stock et description des ingrédients utilisés en cuisine 
  PLAT : Plats proposés : nom, description, prix, catégorie, temps de préparation 
 Table_resto :Détail des tables physiques du restaurant : capacité, zone, état, commande associée
+<img width="1502" height="834" alt="Ombre D'Afrique" src="https://github.com/user-attachments/assets/81d51659-d2f3-4677-a1e4-7aea940c6a54" />
