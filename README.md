@@ -17,3 +17,5 @@ Facture :Détail des factures : montants HT, TTC, taxes, et mode de paiement
 Table_resto :Détail des tables physiques du restaurant : capacité, zone, état, commande associée
 <img width="1502" height="834" alt="Ombre D'Afrique" src="https://github.com/user-attachments/assets/81d51659-d2f3-4677-a1e4-7aea940c6a54" />
 
+<img width="1839" height="999" alt="img_based3" src="https://github.com/user-attachments/assets/65f95ddf-76c8-4cf3-89c1-fb7c4bd8ddcd" />
+<img width="1311" height="713" alt="image" src="https://github.com/user-attachments/assets/720d09f4-511e-4d97-87f5-991acf4fcb27" />
